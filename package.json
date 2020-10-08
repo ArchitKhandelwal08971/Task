@@ -1,0 +1,17 @@
+{
+  "name": "requin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Task1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "exceljs": "^4.1.1",
+    "express": "^4.17.1",
+    "html-pdf": "^2.2.0",
+    "xlsx": "^0.16.8"
+  }
+}
